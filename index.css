@@ -3,11 +3,11 @@ body{
     max-width: 790px;
     background-color: #0f0e17;
     margin:auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   header .container{
       text-align: center;
       color: #fffffe;
-      font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   
   header .container img{
@@ -48,7 +48,8 @@ body{
   }
   
   h2{
-    /* insère ton style ici */
+    color:#ff8906;
+    text-transform: uppercase;
   }
   
   p{
@@ -56,5 +57,10 @@ body{
   }
   
   footer{
-    /* insère ton style ici */
+    background-color: #e53170;
+    color:#fffffe;
+    text-transform: uppercase;
+    font-size: 85%;
+    height: 50px;
+    text-align: center;
   }
