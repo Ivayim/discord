@@ -11,7 +11,7 @@ body{
   }
   
   header .container img{
-    width:"100px";
+    width: 100px;
   }
   
   nav{
@@ -63,4 +63,5 @@ body{
     font-size: 85%;
     height: 50px;
     text-align: center;
+    justify-content: center;
   }
